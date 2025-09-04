@@ -5,6 +5,10 @@
 Me chamo Michele Lescano, sou natuaral do Rio Grande do Sul, estou em transição de carreira para a Tecnologia, concluí o curso técnico em TI pela Qi Faculdade & Escola Técnica. Atualmente, estou cursando Bacharelado em Ciência da Computação pela UniRitter. Sou apaixonada por tecnologia e afins.
 No meu Linkedin "[Michele Lescano](https://www.linkedin.com/in/michele-lescano-dev/)", mostro um pouco sobre mim.
 
+My name is Michele Lescano, I am from Rio Grande do Sul, and I am transitioning my career to Technology. I have completed a technical course in IT at Qi Faculdade & Escola Técnica. Currently, I am pursuing a Bachelor's degree in Computer Science at UniRitter. I am passionate about technology and related fields.
+
+On my Linkedin  "[Michele Lescano](https://www.linkedin.com/in/michele-lescano-dev/)", I show a little bit about myself."
+
 <p align="left">
     <a href="https://github.com/MicheleLescano?tab=repositories&sort=stargazers">
         <img 
