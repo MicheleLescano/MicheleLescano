@@ -109,6 +109,26 @@ No meu Linkedin "[Michele Lescano](https://www.linkedin.com/in/michele-lescano-d
 />
 <br/>
 <br/>
+---
+
+### 🏅 Certificações
+
+<div style="display: inline-block;">
+    <img 
+        align="left" 
+        alt="Badge da Certificação" 
+        height="110" 
+        style="padding-right: 10px;" 
+        src="https://github.com/user-attachments/assets/3e4f7f00-06a9-4bdf-a070-4999f0e7c4a9 " 
+    />
+    </div>
+
+<br clear="left"/>
+<br/>
+
+
+
+---
 ### 📊 Estatísticas
 
 <p>
