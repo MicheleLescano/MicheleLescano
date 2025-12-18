@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Michele Lescano, sou natuaral do Rio Grande do Sul, estou em transição de carreira para a Tecnologia, concluí o curso técnico em TI pela Qi Faculdade & Escola Técnica. Atualmente, estou cursando Bacharelado em Ciência da Computação pela UniRitter. Sou apaixonada por tecnologia e afins.
+Me chamo Michele Lescano, sou natural do Rio Grande do Sul, estou em transição de carreira para a Tecnologia, concluí o curso técnico em TI pela Qi Faculdade & Escola Técnica. Atualmente, estou cursando Bacharelado em Ciência da Computação pela UniRitter. Sou apaixonada por tecnologia e afins.
 No meu Linkedin "[Michele Lescano](https://www.linkedin.com/in/michele-lescano-dev/)", mostro um pouco sobre mim.
 
 
